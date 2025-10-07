@@ -94,6 +94,7 @@ auth.controller.ts
 # Nuxt.js build / generate output
 .nuxt
 dist
+notification
 
 # Gatsby files
 .cache/
